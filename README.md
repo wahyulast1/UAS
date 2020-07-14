@@ -16,6 +16,10 @@ https://uaswebwahyu.000webhostapp.com/index.html
 # Tampilan tambah
 ![Screenshot (51)](https://user-images.githubusercontent.com/46735790/87434178-55d6af80-c614-11ea-869f-471a488f7036.png)
 
+# Tampilan Web
+![Screenshot (53)](https://user-images.githubusercontent.com/46735790/87435083-74897600-c615-11ea-948e-3d9d07d71620.png)
+
+
 
 
 
