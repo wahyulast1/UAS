@@ -1,6 +1,8 @@
 # UAS
 Nama : Wahyu
 Nim  : 311810445
+
+# LINK HOSTING
 https://uaswebwahyu.000webhostapp.com/index.html
 
 
